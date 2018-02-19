@@ -1,0 +1,22 @@
+p{
+	font-family: arial;
+	font-size: 23px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-left: 1.6%;
+	border-bottom :2px solid gray;
+	width:30%;
+	padding-bottom:20px;
+}
+
+img{
+	width:30%;
+	height:400px;
+	float:left;
+	margin:1.6%;
+}
+/*
+hr{
+	width:30%;
+	margin-left: 1.6%;
+}*/
